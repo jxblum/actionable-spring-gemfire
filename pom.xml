@@ -94,10 +94,10 @@
 		<multithreadedtc.version>1.01</multithreadedtc.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-data-gemfire.version>1.9.0.BUILD-SNAPSHOT</spring-data-gemfire.version>
-		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-M2</spring-data-geode.version>
 <!--
-		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-M3-SNAPSHOT</spring-data-geode.version>
+		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-M2</spring-data-geode.version>
 -->
+		<spring-data-geode.version>1.0.0.APACHE-GEODE-INCUBATING-M3-SNAPSHOT</spring-data-geode.version>
 		<spring-shell.version>1.1.0.RELEASE</spring-shell.version>
 	</properties>
 
